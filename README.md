@@ -26,9 +26,6 @@ As a Senior Blockchain/Game developer, I have 9 years of experience in Unity 3D 
 <br/>  
 
 
-## Connect with me  
-  
-
 <br/>  
 
 
@@ -37,15 +34,6 @@ As a Senior Blockchain/Game developer, I have 9 years of experience in Unity 3D 
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gameexpertbc&&style=flat-square" align="center" />
