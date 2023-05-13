@@ -32,25 +32,25 @@ As a Senior Blockchain/Game developer, I have 9 years of experience in Unity 3D 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gameexpertbc&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ninjagamesolution&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameexpertbc&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjagamesolution&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 <br/>  
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=gameexpertbc&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ninjagamesolution&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/gameexpertbc" target="_blank" style="display: inline-block;">
+  <a href="https://www.buymeacoffee.com/ninjagamesolution" target="_blank" style="display: inline-block;">
       <img
           src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
           align="center"
@@ -59,4 +59,4 @@ As a Senior Blockchain/Game developer, I have 9 years of experience in Unity 3D 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.gameexpertbc.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.ninjagamesolution.dev/" target="_blank">Github Profilinator</a></div>
